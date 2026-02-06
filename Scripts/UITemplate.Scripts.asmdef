@@ -1,3 +1,23 @@
-﻿{
-  "name": "UITemplate.Scripts"
+{
+    "name": "UITemplate.Scripts",
+    "rootNamespace": "UITemplate.Scripts",
+    "references": [
+        "VContainer",
+        "GameFoundationCore.DI",
+        "GameFoundationCore.Signals",
+        "UniTask",
+        "GameFoundationCore.Models",
+        "GameFoundationCore.Utilities",
+        "UniT.Extensions",
+        "UITemplate.LocalData"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
