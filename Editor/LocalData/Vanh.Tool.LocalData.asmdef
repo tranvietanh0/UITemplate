@@ -1,0 +1,20 @@
+{
+    "name": "Vanh.Tool.LocalData",
+    "rootNamespace": "Vanh.Tool.LocalData",
+    "references": [
+        "GameFoundationCore.Models",
+        "UniT.Extensions",
+        "GameFoundationCore.DI",
+        "GameFoundationCore.Scripts",
+        "GameFoundationCore.Utilities"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
