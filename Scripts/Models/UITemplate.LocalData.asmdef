@@ -1,3 +1,4 @@
 ﻿{
-  "name": "UITemplate.LocalData"
+  "name": "UITemplate.LocalData",
+  "references":[ "GUID:2491ae3c3d3948cdaaa211a31a154557" ]
 }
