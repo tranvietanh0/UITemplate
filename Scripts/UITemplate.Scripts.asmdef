@@ -9,7 +9,8 @@
         "GameFoundationCore.Models",
         "GameFoundationCore.Utilities",
         "UniT.Extensions",
-        "UITemplate.LocalData"
+        "UITemplate.LocalData",
+        "UniT.Logging"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
